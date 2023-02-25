@@ -1,5 +1,5 @@
-# Space-Station-Refueling-Simulation
-This simulation requires a space shuttle to launch a fuel cell, which will dock with an orbiting space station. 
+# Space-Station-Refueling-Simulation 
+Java simulation that requires a space shuttle to launch a fuel cell, which will dock with an orbiting space station. 
 Due to a low fuel supply, the space station has entered a state of unplanned orbital descent and will eventually crash to the earth, if it does not receive a new supply of fuel soon. 
 Use of multiple objects such as Diamonds, Circles, and Triangles. 
 - Choosing level of difficulty: The simulation will provide an option for user selection of a level of difficulty, beginner (B), intermediate (I), or advanced (A). The level determines the speed at which the space station is orbiting.
